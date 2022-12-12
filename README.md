@@ -1,20 +1,30 @@
-# marktest
-施承鑌
+施承鑌 ![bin](https://i.imgur.com/YvsNMDg.jpg)
 ======
 
 基本資料
 --------
-#你好
+朝陽科大
 
-這是程式碼
+工作經驗
+--------
+永豐⾦證券台中司實習生  
+錠嵂險經紀⼈中九實習生  
+老酒收購
 
-`this is my code`
+證照
+--------
+證券商業務員  
+信託業務⼈員專業測驗  
+人身壽險業務員    
+銀⾏內部控制與內部稽核  
+TQC-中打70字/每分鐘  
+TQC-英打20字/每分鐘  
 
-[git](https://github.com/Sinsbin)
+作品集
+--------
+[git][git1]
 
-[這是git][git1]
+  [git1]: https://github.com/Sinsbin "git"
 
-  [git1]: https://github.com/Sinsbin "游標顯示"
-
-
+`hello world`
 
