@@ -6,6 +6,10 @@
 --------
 #你好
 
+這是程式碼
+
+`this is my code`
+
 [git](https://github.com/Sinsbin)
 
 [這是git][git1]
