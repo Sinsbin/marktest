@@ -9,7 +9,7 @@
 
 [這是git][git1]
 
-  [git]: (https://github.com/Sinsbin) "這是GIT"
+  [git1]: (https://github.com/Sinsbin) "這是GIT"
 
 
 #123
