@@ -25,7 +25,11 @@ markdownpdf().from('./marktest/demo.md').to("./markd.pdf",function(err,data){
         return;
     }
     console.log('done');
+<<<<<<< HEAD
 })
+=======
+});
+>>>>>>> main
 app.get("/",(req,res)=>{
     fs.readFile("./index.html",function(err,data){
         if(err){
