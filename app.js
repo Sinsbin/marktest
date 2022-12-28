@@ -5,7 +5,7 @@ const fs=require('fs');
 const app = express();
 const converter = new showdown.Converter();
 //利用fs讀檔
-fs.readFile('./marktest/demo.md','utf-8',function(err,data){
+fs.readFile('./demo.md','utf-8',function(err,data){
     if(err){
         console.log("出錯")
         return
@@ -19,17 +19,13 @@ fs.readFile('./marktest/demo.md','utf-8',function(err,data){
         }//寫入的偵錯
     })
 })
-markdownpdf().from('./marktest/demo.md').to("./markd.pdf",function(err,data){
+markdownpdf().from('./demo.md').to("./markd.pdf",function(err,data){
     if(err){
         console.log(err);
         return;
     }
     console.log('done');
-<<<<<<< HEAD
-})
-=======
 });
->>>>>>> main
 app.get("/",(req,res)=>{
     fs.readFile("./index.html",function(err,data){
         if(err){
